@@ -1,0 +1,11 @@
+Total de Designacoes:14
+Total de Produtos em Stock:10439879
+Total de Desiganacoes por Produto:
+-->Alimentacao:6
+-->Limpeza:2
+-->Higiene:1
+-->Congelados:0
+-->Bebidas:2
+
+Valor Total dos Produtos(sem iva):24293180.00 euros
+Valor Total dos Produtos(com iva):27441392.00 euros

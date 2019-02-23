@@ -1,0 +1,14 @@
+chocolate;100009;alimentacao;2.33;0.23;2000
+Bolachas;100008;alimentacao;2.33;0.23;2000
+batatas_fritas;100881;alimentacao;1.99;0.23;1000
+Arroz;111111;alimentacao;0.55;0.23;2000
+Papel;100003;limpeza;0.55;0.13;5000
+kiri;101010;bebidas;5.99;0.13;10000
+vodka;999999;bebidas;3.44;0.13;151515
+azeite;888888;alimentacao;1.56;0.23;7659
+pipocas;876876;alimentacao;1.44;0.23;9999
+presevativos;131313;higiene;13.99;0.23;8000
+queijo;554466;alimentacao;4.55;0.23;9000
+limpa vidros;883300;limpeza;2.33;0.13;10001010
+iogurte;887767;alimentacao;1.10;0.23;200000
+batata doce;121212;alimentacao;1.50;0.23;100000
